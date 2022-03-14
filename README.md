@@ -1,1 +1,10 @@
 # Kazuha
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<p>Hello World.</p>
+</body>
+</html>
